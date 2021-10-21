@@ -1,0 +1,8 @@
+D:\Desenv\Estudos\AluraSinqia\FormacaoC#\C#parte1_PrimeirosPassos\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\P10-CalculaPoupanca.exe.config
+D:\Desenv\Estudos\AluraSinqia\FormacaoC#\C#parte1_PrimeirosPassos\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\P10-CalculaPoupanca.exe
+D:\Desenv\Estudos\AluraSinqia\FormacaoC#\C#parte1_PrimeirosPassos\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\P10-CalculaPoupanca.pdb
+D:\Desenv\Estudos\AluraSinqia\FormacaoC#\C#parte1_PrimeirosPassos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.csproj.AssemblyReference.cache
+D:\Desenv\Estudos\AluraSinqia\FormacaoC#\C#parte1_PrimeirosPassos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.csproj.SuggestedBindingRedirects.cache
+D:\Desenv\Estudos\AluraSinqia\FormacaoC#\C#parte1_PrimeirosPassos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+D:\Desenv\Estudos\AluraSinqia\FormacaoC#\C#parte1_PrimeirosPassos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.exe
+D:\Desenv\Estudos\AluraSinqia\FormacaoC#\C#parte1_PrimeirosPassos\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\P10-CalculaPoupanca.pdb

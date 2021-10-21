@@ -1,0 +1,12 @@
+/Users/oberdanmarinho/Google Drive/Desenvolvimento/C#/Estudos/AluraSinqia/1_primeirosPassos/AprendendoCSharp/9- Escopo/bin/Debug/9- Escopo.exe.config
+/Users/oberdanmarinho/Google Drive/Desenvolvimento/C#/Estudos/AluraSinqia/1_primeirosPassos/AprendendoCSharp/9- Escopo/bin/Debug/9- Escopo.exe
+/Users/oberdanmarinho/Google Drive/Desenvolvimento/C#/Estudos/AluraSinqia/1_primeirosPassos/AprendendoCSharp/9- Escopo/bin/Debug/9- Escopo.pdb
+/Users/oberdanmarinho/Google Drive/Desenvolvimento/C#/Estudos/AluraSinqia/1_primeirosPassos/AprendendoCSharp/9- Escopo/obj/Debug/9-Escopo.csproj.CoreCompileInputs.cache
+/Users/oberdanmarinho/Google Drive/Desenvolvimento/C#/Estudos/AluraSinqia/1_primeirosPassos/AprendendoCSharp/9- Escopo/obj/Debug/9- Escopo.exe
+/Users/oberdanmarinho/Google Drive/Desenvolvimento/C#/Estudos/AluraSinqia/1_primeirosPassos/AprendendoCSharp/9- Escopo/obj/Debug/9- Escopo.pdb
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\9- Escopo\bin\Debug\9- Escopo.exe.config
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\9- Escopo\bin\Debug\9- Escopo.exe
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\9- Escopo\bin\Debug\9- Escopo.pdb
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\9- Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\9- Escopo\obj\Debug\9- Escopo.exe
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\9- Escopo\obj\Debug\9- Escopo.pdb

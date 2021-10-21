@@ -1,0 +1,12 @@
+D:\Google Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\6-VariavelDeVariavel\bin\Debug\6-VariavelDeVariavel.exe.config
+D:\Google Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\6-VariavelDeVariavel\bin\Debug\6-VariavelDeVariavel.exe
+D:\Google Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\6-VariavelDeVariavel\bin\Debug\6-VariavelDeVariavel.pdb
+D:\Google Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\6-VariavelDeVariavel\obj\Debug\6-VariavelDeVariavel.csproj.CoreCompileInputs.cache
+D:\Google Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\6-VariavelDeVariavel\obj\Debug\6-VariavelDeVariavel.exe
+D:\Google Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\6-VariavelDeVariavel\obj\Debug\6-VariavelDeVariavel.pdb
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\6-VariavelDeVariavel\bin\Debug\6-VariavelDeVariavel.exe.config
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\6-VariavelDeVariavel\bin\Debug\6-VariavelDeVariavel.exe
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\6-VariavelDeVariavel\bin\Debug\6-VariavelDeVariavel.pdb
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\6-VariavelDeVariavel\obj\Debug\6-VariavelDeVariavel.csproj.CoreCompileInputs.cache
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\6-VariavelDeVariavel\obj\Debug\6-VariavelDeVariavel.exe
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\6-VariavelDeVariavel\obj\Debug\6-VariavelDeVariavel.pdb

@@ -1,0 +1,18 @@
+/Users/oberdanmarinho/Google Drive/Desenvolvimento/C#/Estudos/AluraSinqia/1_primeirosPassos/AprendendoCSharp/9.3-TesteEscopo/obj/Debug/9.3-TesteEscopo.csproj.CoreCompileInputs.cache
+/Users/oberdanmarinho/Google Drive/Desenvolvimento/C#/Estudos/AluraSinqia/1_primeirosPassos/AprendendoCSharp/9.3-TesteEscopo/bin/Debug/9.3-TesteEscopo.exe
+/Users/oberdanmarinho/Google Drive/Desenvolvimento/C#/Estudos/AluraSinqia/1_primeirosPassos/AprendendoCSharp/9.3-TesteEscopo/bin/Debug/9.3-TesteEscopo.pdb
+/Users/oberdanmarinho/Google Drive/Desenvolvimento/C#/Estudos/AluraSinqia/1_primeirosPassos/AprendendoCSharp/9.3-TesteEscopo/obj/Debug/9.3-TesteEscopo.exe
+/Users/oberdanmarinho/Google Drive/Desenvolvimento/C#/Estudos/AluraSinqia/1_primeirosPassos/AprendendoCSharp/9.3-TesteEscopo/obj/Debug/9.3-TesteEscopo.pdb
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\9.3-TesteEscopo\bin\Debug\9.3-TesteEscopo.exe
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\9.3-TesteEscopo\bin\Debug\9.3-TesteEscopo.pdb
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\9.3-TesteEscopo\obj\Debug\9.3-TesteEscopo.csproj.AssemblyReference.cache
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\9.3-TesteEscopo\obj\Debug\9.3-TesteEscopo.csproj.CoreCompileInputs.cache
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\9.3-TesteEscopo\obj\Debug\9.3-TesteEscopo.exe
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\9.3-TesteEscopo\obj\Debug\9.3-TesteEscopo.pdb
+D:\Desenv\Estudos\AluraSinqia\FormacaoC#\C#parte1_PrimeirosPassos\AprendendoCSharp\9.3-TesteEscopo\bin\Debug\9.3-TesteEscopo.exe
+D:\Desenv\Estudos\AluraSinqia\FormacaoC#\C#parte1_PrimeirosPassos\AprendendoCSharp\9.3-TesteEscopo\bin\Debug\9.3-TesteEscopo.pdb
+D:\Desenv\Estudos\AluraSinqia\FormacaoC#\C#parte1_PrimeirosPassos\AprendendoCSharp\9.3-TesteEscopo\obj\Debug\9.3-TesteEscopo.csproj.AssemblyReference.cache
+D:\Desenv\Estudos\AluraSinqia\FormacaoC#\C#parte1_PrimeirosPassos\AprendendoCSharp\9.3-TesteEscopo\obj\Debug\9.3-TesteEscopo.csproj.SuggestedBindingRedirects.cache
+D:\Desenv\Estudos\AluraSinqia\FormacaoC#\C#parte1_PrimeirosPassos\AprendendoCSharp\9.3-TesteEscopo\obj\Debug\9.3-TesteEscopo.csproj.CoreCompileInputs.cache
+D:\Desenv\Estudos\AluraSinqia\FormacaoC#\C#parte1_PrimeirosPassos\AprendendoCSharp\9.3-TesteEscopo\obj\Debug\9.3-TesteEscopo.exe
+D:\Desenv\Estudos\AluraSinqia\FormacaoC#\C#parte1_PrimeirosPassos\AprendendoCSharp\9.3-TesteEscopo\obj\Debug\9.3-TesteEscopo.pdb

@@ -1,0 +1,13 @@
+D:\Google Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\2.1-CriandoVariaveis\bin\Debug\2.1-CriandoVariaveis.exe.config
+D:\Google Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\2.1-CriandoVariaveis\bin\Debug\2.1-CriandoVariaveis.exe
+D:\Google Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\2.1-CriandoVariaveis\bin\Debug\2.1-CriandoVariaveis.pdb
+D:\Google Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\2.1-CriandoVariaveis\obj\Debug\2.1-CriandoVariaveis.csproj.CoreCompileInputs.cache
+D:\Google Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\2.1-CriandoVariaveis\obj\Debug\2.1-CriandoVariaveis.exe
+D:\Google Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\2.1-CriandoVariaveis\obj\Debug\2.1-CriandoVariaveis.pdb
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\2.1-CriandoVariaveis\bin\Debug\2.1-CriandoVariaveis.exe.config
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\2.1-CriandoVariaveis\bin\Debug\2.1-CriandoVariaveis.exe
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\2.1-CriandoVariaveis\bin\Debug\2.1-CriandoVariaveis.pdb
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\2.1-CriandoVariaveis\obj\Debug\2.1-CriandoVariaveis.csproj.CoreCompileInputs.cache
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\2.1-CriandoVariaveis\obj\Debug\2.1-CriandoVariaveis.exe
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\2.1-CriandoVariaveis\obj\Debug\2.1-CriandoVariaveis.pdb
+E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\2.1-CriandoVariaveis\obj\Debug\2.1-CriandoVariaveis.csproj.AssemblyReference.cache

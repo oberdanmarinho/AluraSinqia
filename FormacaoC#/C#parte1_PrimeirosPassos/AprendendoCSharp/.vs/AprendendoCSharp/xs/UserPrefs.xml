@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A186B905-DD1E-41D7-B742-D536862D4D5D}|Default">
+  <MonoDevelop.Ide.ItemProperties.9.3-TesteEscopo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1-PrimeiroProjeto PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="9.3-TesteEscopo/Program.cs">
+    <Files>
+      <File FileName="9.3-TesteEscopo/Program.cs" Line="39" Column="1" />
+      <File FileName="8-Condicionais2/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AprendendoCSharp" expanded="True">
+            <Node name="9.3-TesteEscopo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.9.1-TestaCondicional2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.9.2-TesteEscopo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.9-Escopo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
