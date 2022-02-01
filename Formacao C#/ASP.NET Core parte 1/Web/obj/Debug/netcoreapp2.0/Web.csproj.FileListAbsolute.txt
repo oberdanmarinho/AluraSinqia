@@ -1,0 +1,10 @@
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\Web\bin\Debug\netcoreapp2.0\Web.deps.json
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.json
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.dev.json
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\Web\bin\Debug\netcoreapp2.0\Web.dll
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\Web\bin\Debug\netcoreapp2.0\Web.pdb
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\Web\obj\Debug\netcoreapp2.0\Web.csproj.CoreCompileInputs.cache
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfoInputs.cache
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfo.cs
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\Web\obj\Debug\netcoreapp2.0\Web.dll
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\Web\obj\Debug\netcoreapp2.0\Web.pdb

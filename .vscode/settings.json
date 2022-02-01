@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Shades of Purple",
+    "editor.fontSize": 13,
+    // "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "prettier.tabWidth": 4,
+
+    "editor.wordWrapColumn": 120,
+    "editor.renderLineHighlight": "gutter",
+    "terminal.integrated.fontSize": 13,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.tabSize": 4,
+    "bracket-pair-colorizer-2.depreciation-notice": true,
+}

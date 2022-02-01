@@ -1,6 +1,0 @@
-E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\7.1-Condiciona\bin\Debug\7.1-Condiciona.exe.config
-E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\7.1-Condiciona\bin\Debug\7.1-Condiciona.exe
-E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\7.1-Condiciona\bin\Debug\7.1-Condiciona.pdb
-E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\7.1-Condiciona\obj\Debug\7.1-Condicional.csproj.CoreCompileInputs.cache
-E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\7.1-Condiciona\obj\Debug\7.1-Condiciona.exe
-E:\Meu Drive\Desenvolvimento\C#\Estudos\AluraSinqia\1_primeirosPassos\AprendendoCSharp\7.1-Condiciona\obj\Debug\7.1-Condiciona.pdb
