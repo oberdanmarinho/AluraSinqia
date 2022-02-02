@@ -1,0 +1,10 @@
+D:\Development\AluraSinqia\Formacao c#\ASP.NET Core parte 1\mvc\bin\Debug\netcoreapp2.0\mvc.deps.json
+D:\Development\AluraSinqia\Formacao c#\ASP.NET Core parte 1\mvc\bin\Debug\netcoreapp2.0\mvc.runtimeconfig.json
+D:\Development\AluraSinqia\Formacao c#\ASP.NET Core parte 1\mvc\bin\Debug\netcoreapp2.0\mvc.runtimeconfig.dev.json
+D:\Development\AluraSinqia\Formacao c#\ASP.NET Core parte 1\mvc\bin\Debug\netcoreapp2.0\mvc.dll
+D:\Development\AluraSinqia\Formacao c#\ASP.NET Core parte 1\mvc\bin\Debug\netcoreapp2.0\mvc.pdb
+D:\Development\AluraSinqia\Formacao c#\ASP.NET Core parte 1\mvc\obj\Debug\netcoreapp2.0\mvc.csproj.CoreCompileInputs.cache
+D:\Development\AluraSinqia\Formacao c#\ASP.NET Core parte 1\mvc\obj\Debug\netcoreapp2.0\mvc.AssemblyInfoInputs.cache
+D:\Development\AluraSinqia\Formacao c#\ASP.NET Core parte 1\mvc\obj\Debug\netcoreapp2.0\mvc.AssemblyInfo.cs
+D:\Development\AluraSinqia\Formacao c#\ASP.NET Core parte 1\mvc\obj\Debug\netcoreapp2.0\mvc.dll
+D:\Development\AluraSinqia\Formacao c#\ASP.NET Core parte 1\mvc\obj\Debug\netcoreapp2.0\mvc.pdb
