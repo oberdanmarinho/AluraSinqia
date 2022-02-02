@@ -8,3 +8,4 @@ D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\Web\obj\Debug\netcor
 D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfo.cs
 D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\Web\obj\Debug\netcoreapp2.0\Web.dll
 D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\Web\obj\Debug\netcoreapp2.0\Web.pdb
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\Web\obj\Debug\netcoreapp2.0\Web.csproj.AssemblyReference.cache

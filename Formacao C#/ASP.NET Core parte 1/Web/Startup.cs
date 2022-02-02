@@ -25,9 +25,19 @@ namespace Web
                 app.UseDeveloperExceptionPage();
             }
 
+            var livros = new List<Livro>();
+
+            livros.Add(new Livro("001 ", "Ola mundo 01 ", 100.00m));
+            livros.Add(new Livro("002 ", "Ola mundo 02 ", 140.00m));
+            livros.Add(new Livro("003 ", "Ola mundo 03 ", 150.00m));
+
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Olá mundo!");
+                foreach (var livro in livros) 
+                
+                {
+                    await context.Response.WriteAsync($"{livro.Codigo,-10}{livro.Nome,-40}{livro.Preco.ToString("C"),10}\r\n");
+                }
             });
         }
     }
