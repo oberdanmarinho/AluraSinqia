@@ -1,0 +1,11 @@
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.deps.json
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.json
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.AssemblyReference.cache
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.CoreCompileInputs.cache
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
+D:\Development\AluraSinqia\Formacao C#\ASP.NET Core parte 1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb

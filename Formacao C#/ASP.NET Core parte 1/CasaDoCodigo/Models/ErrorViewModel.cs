@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CasaDoCodigo.Models
 {
@@ -9,4 +9,3 @@ namespace CasaDoCodigo.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
-
