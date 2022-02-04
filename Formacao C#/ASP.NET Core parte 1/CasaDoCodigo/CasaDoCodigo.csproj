@@ -12,4 +12,9 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Pedido\" />
+    <Folder Include="wwwroot\images\produtos\" />
+  </ItemGroup>
+
 </Project>
