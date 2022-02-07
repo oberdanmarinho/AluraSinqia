@@ -1,32 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\AluraSinqia\\Formacao C#\\ASP.NET Core parte 1\\CasaDoCodigo\\CasaDoCodigo.csproj": {}
+    "/Users/oberdanmarinho/Development/Studies/AluraSinqia/Formacao C#/ASP.NET Core parte 1/CasaDoCodigo/CasaDoCodigo.csproj": {}
   },
   "projects": {
-    "D:\\Development\\AluraSinqia\\Formacao C#\\ASP.NET Core parte 1\\CasaDoCodigo\\CasaDoCodigo.csproj": {
+    "/Users/oberdanmarinho/Development/Studies/AluraSinqia/Formacao C#/ASP.NET Core parte 1/CasaDoCodigo/CasaDoCodigo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\AluraSinqia\\Formacao C#\\ASP.NET Core parte 1\\CasaDoCodigo\\CasaDoCodigo.csproj",
+        "projectUniqueName": "/Users/oberdanmarinho/Development/Studies/AluraSinqia/Formacao C#/ASP.NET Core parte 1/CasaDoCodigo/CasaDoCodigo.csproj",
         "projectName": "CasaDoCodigo",
-        "projectPath": "D:\\Development\\AluraSinqia\\Formacao C#\\ASP.NET Core parte 1\\CasaDoCodigo\\CasaDoCodigo.csproj",
-        "packagesPath": "C:\\Users\\oberd\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\AluraSinqia\\Formacao C#\\ASP.NET Core parte 1\\CasaDoCodigo\\obj\\",
+        "projectPath": "/Users/oberdanmarinho/Development/Studies/AluraSinqia/Formacao C#/ASP.NET Core parte 1/CasaDoCodigo/CasaDoCodigo.csproj",
+        "packagesPath": "/Users/oberdanmarinho/.nuget/packages/",
+        "outputPath": "/Users/oberdanmarinho/Development/Studies/AluraSinqia/Formacao C#/ASP.NET Core parte 1/CasaDoCodigo/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\oberd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/oberdanmarinho/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,16 +46,23 @@
               "version": "[2.0.0, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
