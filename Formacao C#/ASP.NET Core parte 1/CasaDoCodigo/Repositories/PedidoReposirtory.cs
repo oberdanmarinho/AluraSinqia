@@ -1,4 +1,5 @@
-﻿using static CasaDoCodigo.Models.Produto;
+﻿using Microsoft.AspNetCore.Http;
+using static CasaDoCodigo.Models.Produto;
 
 namespace CasaDoCodigo.Repositories
 {
@@ -8,8 +9,21 @@ namespace CasaDoCodigo.Repositories
 
     public class PedidoRepository : BaseRepository<Pedido>, IPedidoRepository
     {
-        public PedidoRepository(ApplicationContext contexto) : base(contexto)
+        private readonly IHttpContextAccessor contextAcessor;
+        public PedidoRepository(ApplicationContext contexto,
+            IHttpContextAccessor contextAccessor) : base(contexto)
         {
+            this,.contextAcessor = contextAccessor;
+        }
+
+        private int? GetPedidoId()
+        {
+            return contextAcessor.HttpContext.Session.GetInt32("pedidoId");
+        }
+
+        private void SetPedidoId(int pedidoId)
+        {
+            contextAcessor.HttpContext.Session.SetInt32("pedidoId", pedidoId);
         }
     }
 }
