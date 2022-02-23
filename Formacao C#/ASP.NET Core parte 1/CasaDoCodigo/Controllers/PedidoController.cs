@@ -18,8 +18,7 @@ namespace CasaDoCodigo.Controllers
 
         public IActionResult Carrossel()
         {
-            return View(produtoRepository.GetProdutos()
-);
+            return View(produtoRepository.GetProdutos());
         }
 
         public IActionResult Carrinho(string codigo)
@@ -40,7 +39,8 @@ namespace CasaDoCodigo.Controllers
 
         public IActionResult Resumo()
         {
-            return View();
+            Pedido pedido = pedidoRepository.GetPedido();
+            return View(pedido);
         }
     }
 }

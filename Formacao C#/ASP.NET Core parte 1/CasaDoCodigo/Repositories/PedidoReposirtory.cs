@@ -46,7 +46,7 @@ namespace CasaDoCodigo.Repositories
                     .Add(itemPedido);
 
                 contexto.SaveChanges();
-            } 
+            }
         }
 
         public Pedido GetPedido()
@@ -58,7 +58,7 @@ namespace CasaDoCodigo.Repositories
                 .Where(p => p.Id == pedidoId)
                 .SingleOrDefault();
 
-            if (pedido == null) 
+            if (pedido == null)
             {
                 pedido = new Pedido();
                 dbSet.Add(pedido);
