@@ -1,0 +1,8 @@
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\03.Variaveis Numericas\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.exe.config
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\03.Variaveis Numericas\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.exe
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\03.Variaveis Numericas\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.pdb
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\03.Variaveis Numericas\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.csproj.AssemblyReference.cache
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\03.Variaveis Numericas\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.csproj.SuggestedBindingRedirects.cache
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\03.Variaveis Numericas\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\03.Variaveis Numericas\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.exe
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\03.Variaveis Numericas\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.pdb

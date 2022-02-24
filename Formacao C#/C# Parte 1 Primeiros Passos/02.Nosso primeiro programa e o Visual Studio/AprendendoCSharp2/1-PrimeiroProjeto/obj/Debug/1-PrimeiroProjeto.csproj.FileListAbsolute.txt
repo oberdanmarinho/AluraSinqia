@@ -1,0 +1,8 @@
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\02.Nosso primeiro programa e o Visual Studio\AprendendoCSharp2\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe.config
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\02.Nosso primeiro programa e o Visual Studio\AprendendoCSharp2\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\02.Nosso primeiro programa e o Visual Studio\AprendendoCSharp2\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.pdb
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\02.Nosso primeiro programa e o Visual Studio\AprendendoCSharp2\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.AssemblyReference.cache
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\02.Nosso primeiro programa e o Visual Studio\AprendendoCSharp2\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.SuggestedBindingRedirects.cache
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\02.Nosso primeiro programa e o Visual Studio\AprendendoCSharp2\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\02.Nosso primeiro programa e o Visual Studio\AprendendoCSharp2\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.exe
+D:\Development\AluraSinqia\Formacao C#\C# Parte 1 Primeiros Passos\02.Nosso primeiro programa e o Visual Studio\AprendendoCSharp2\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.pdb

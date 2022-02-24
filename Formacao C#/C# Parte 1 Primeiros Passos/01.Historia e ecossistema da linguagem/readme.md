@@ -1,0 +1,1 @@
+Esse modulo da aula foi apenas Teórico e provas na plataforma.
