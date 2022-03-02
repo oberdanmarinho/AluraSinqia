@@ -1,0 +1,8 @@
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\05.Controle de fluxo com IF\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\05.Controle de fluxo com IF\7-Condicionais\bin\Debug\7-Condicionais.exe
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\05.Controle de fluxo com IF\7-Condicionais\bin\Debug\7-Condicionais.pdb
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\05.Controle de fluxo com IF\7-Condicionais\obj\Debug\7-Condicionais.csproj.AssemblyReference.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\05.Controle de fluxo com IF\7-Condicionais\obj\Debug\7-Condicionais.csproj.SuggestedBindingRedirects.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\05.Controle de fluxo com IF\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\05.Controle de fluxo com IF\7-Condicionais\obj\Debug\7-Condicionais.exe
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\05.Controle de fluxo com IF\7-Condicionais\obj\Debug\7-Condicionais.pdb
