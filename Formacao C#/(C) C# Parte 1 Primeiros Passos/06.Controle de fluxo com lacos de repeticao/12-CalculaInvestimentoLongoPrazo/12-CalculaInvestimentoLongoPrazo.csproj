@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{72ACD7A5-AF2B-49B3-9FF5-334DE9F1A9B0}</ProjectGuid>
+    <ProjectGuid>{3E7400BD-BF1E-4E9D-A9B8-3992270A89EC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_9_Escopo</RootNamespace>
-    <AssemblyName>9-Escopo</AssemblyName>
+    <RootNamespace>_12_CalculaInvestimentoLongoPrazo</RootNamespace>
+    <AssemblyName>12-CalculaInvestimentoLongoPrazo</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

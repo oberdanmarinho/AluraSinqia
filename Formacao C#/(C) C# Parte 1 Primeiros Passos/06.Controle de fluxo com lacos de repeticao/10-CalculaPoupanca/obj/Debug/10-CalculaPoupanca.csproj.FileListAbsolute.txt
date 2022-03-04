@@ -1,0 +1,8 @@
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\10-CalculaPoupanca\bin\Debug\10-CalculaPoupanca.exe.config
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\10-CalculaPoupanca\bin\Debug\10-CalculaPoupanca.exe
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\10-CalculaPoupanca\bin\Debug\10-CalculaPoupanca.pdb
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\10-CalculaPoupanca\obj\Debug\10-CalculaPoupanca.csproj.AssemblyReference.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\10-CalculaPoupanca\obj\Debug\10-CalculaPoupanca.csproj.SuggestedBindingRedirects.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\10-CalculaPoupanca\obj\Debug\10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\10-CalculaPoupanca\obj\Debug\10-CalculaPoupanca.exe
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\10-CalculaPoupanca\obj\Debug\10-CalculaPoupanca.pdb

@@ -1,0 +1,8 @@
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\12-CalculaInvestimentoLongoPrazo\obj\Debug\12-CalculaInvestimentoLongoPrazo.csproj.AssemblyReference.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\12-CalculaInvestimentoLongoPrazo\obj\Debug\12-CalculaInvestimentoLongoPrazo.csproj.SuggestedBindingRedirects.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\12-CalculaInvestimentoLongoPrazo\obj\Debug\12-CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\12-CalculaInvestimentoLongoPrazo\bin\Debug\12-CalculaInvestimentoLongoPrazo.exe.config
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\12-CalculaInvestimentoLongoPrazo\bin\Debug\12-CalculaInvestimentoLongoPrazo.exe
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\12-CalculaInvestimentoLongoPrazo\bin\Debug\12-CalculaInvestimentoLongoPrazo.pdb
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\12-CalculaInvestimentoLongoPrazo\obj\Debug\12-CalculaInvestimentoLongoPrazo.exe
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\12-CalculaInvestimentoLongoPrazo\obj\Debug\12-CalculaInvestimentoLongoPrazo.pdb
