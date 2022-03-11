@@ -1,0 +1,8 @@
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\13-ForEncadeado\bin\Debug\13-ForEncadeado.exe.config
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\13-ForEncadeado\bin\Debug\13-ForEncadeado.exe
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\13-ForEncadeado\bin\Debug\13-ForEncadeado.pdb
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\13-ForEncadeado\obj\Debug\13-ForEncadeado.csproj.AssemblyReference.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\13-ForEncadeado\obj\Debug\13-ForEncadeado.csproj.SuggestedBindingRedirects.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\13-ForEncadeado\obj\Debug\13-ForEncadeado.csproj.CoreCompileInputs.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\13-ForEncadeado\obj\Debug\13-ForEncadeado.exe
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\13-ForEncadeado\obj\Debug\13-ForEncadeado.pdb

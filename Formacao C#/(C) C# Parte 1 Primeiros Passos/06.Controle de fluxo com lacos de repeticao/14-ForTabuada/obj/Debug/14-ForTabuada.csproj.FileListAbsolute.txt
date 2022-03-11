@@ -1,0 +1,8 @@
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-ForTabuada\bin\Debug\14-ForTabuada.exe.config
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-ForTabuada\bin\Debug\14-ForTabuada.exe
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-ForTabuada\bin\Debug\14-ForTabuada.pdb
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-ForTabuada\obj\Debug\14-ForTabuada.csproj.AssemblyReference.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-ForTabuada\obj\Debug\14-ForTabuada.csproj.SuggestedBindingRedirects.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-ForTabuada\obj\Debug\14-ForTabuada.csproj.CoreCompileInputs.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-ForTabuada\obj\Debug\14-ForTabuada.exe
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-ForTabuada\obj\Debug\14-ForTabuada.pdb

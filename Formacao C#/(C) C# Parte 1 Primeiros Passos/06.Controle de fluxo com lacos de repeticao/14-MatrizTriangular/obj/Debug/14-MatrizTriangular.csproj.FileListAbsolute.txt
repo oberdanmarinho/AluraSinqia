@@ -1,0 +1,8 @@
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-MatrizTriangular\bin\Debug\14-MatrizTriangular.exe.config
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-MatrizTriangular\bin\Debug\14-MatrizTriangular.exe
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-MatrizTriangular\bin\Debug\14-MatrizTriangular.pdb
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-MatrizTriangular\obj\Debug\14-MatrizTriangular.csproj.AssemblyReference.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-MatrizTriangular\obj\Debug\14-MatrizTriangular.csproj.SuggestedBindingRedirects.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-MatrizTriangular\obj\Debug\14-MatrizTriangular.csproj.CoreCompileInputs.cache
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-MatrizTriangular\obj\Debug\14-MatrizTriangular.exe
+D:\Development\AluraSinqia\Formacao C#\(C) C# Parte 1 Primeiros Passos\06.Controle de fluxo com lacos de repeticao\14-MatrizTriangular\obj\Debug\14-MatrizTriangular.pdb
