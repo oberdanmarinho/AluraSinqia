@@ -1,0 +1,8 @@
+D:\Development\AluraSinqia\Formacao C#\(R) C# Parte 2 Introducao a Orientacao a Objetos\02.Tipos\02-ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe.config
+D:\Development\AluraSinqia\Formacao C#\(R) C# Parte 2 Introducao a Orientacao a Objetos\02.Tipos\02-ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe
+D:\Development\AluraSinqia\Formacao C#\(R) C# Parte 2 Introducao a Orientacao a Objetos\02.Tipos\02-ByteBank\02-ByteBank\bin\Debug\02-ByteBank.pdb
+D:\Development\AluraSinqia\Formacao C#\(R) C# Parte 2 Introducao a Orientacao a Objetos\02.Tipos\02-ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.AssemblyReference.cache
+D:\Development\AluraSinqia\Formacao C#\(R) C# Parte 2 Introducao a Orientacao a Objetos\02.Tipos\02-ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.SuggestedBindingRedirects.cache
+D:\Development\AluraSinqia\Formacao C#\(R) C# Parte 2 Introducao a Orientacao a Objetos\02.Tipos\02-ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.CoreCompileInputs.cache
+D:\Development\AluraSinqia\Formacao C#\(R) C# Parte 2 Introducao a Orientacao a Objetos\02.Tipos\02-ByteBank\02-ByteBank\obj\Debug\02-ByteBank.exe
+D:\Development\AluraSinqia\Formacao C#\(R) C# Parte 2 Introducao a Orientacao a Objetos\02.Tipos\02-ByteBank\02-ByteBank\obj\Debug\02-ByteBank.pdb
